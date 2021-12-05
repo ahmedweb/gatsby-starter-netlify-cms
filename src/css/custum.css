@@ -1,2 +1,3 @@
 
 .message-body code, .navbar {background-color: #091830;} .navbar-item {color: #ffffff;}
+.message-body code, .navbar {background-color: #091830;} .navbar-item {color: #ffffff;} a.navbar-item {cursor: pointer;font-weight: 900;}
