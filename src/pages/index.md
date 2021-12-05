@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Petit teste
 image: /img/lavendon-france-recrute-1181x560.jpg
-heading: Great coffee with a conscience
+heading: introduction
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
